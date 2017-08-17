@@ -1,6 +1,6 @@
 # buuf-3.22a
 
-Icon package ini saya clone dari buff-3.22 milik **OxayotlTheGreat** pada alamat [Buuf gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
+Icon package / iconset ini saya *clone* dari iconset **buff-3.22** milik **OxayotlTheGreat** pada alamat [Buuf gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
 
 Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.
 
@@ -31,7 +31,9 @@ Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi ya
 ## Instalasi
 Untuk melakukan instalasi cukup *copy & paste* perintah di bawah ini ke Terminal.
 
-    git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a
+    ~~~ sh
+    $ git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a
+    ~~~
 
 Perintah ini akan meng-*clone*-ing repositori ini ke dalam folder `~/.icons/` yang terdapat pada direktori `Home`.
 
@@ -39,7 +41,9 @@ Perintah ini akan meng-*clone*-ing repositori ini ke dalam folder `~/.icons/` ya
 ## Update
 Terkadang saya melakukan penambahan icon-icon baru terhadap aplikasi yang saya instal dan saya akan melakukan update repositori pada GitHub ini. Maka untuk tetap dapat menikmati icon-icon yang telah saya tambahkan, anda dapat melakukannya dengan perintah berikut ini.
     
-    cd ~/.icons/buuf-3.22a && git pull
+    ~~~ sh
+    $ cd ~/.icons/buuf-3.22a && git pull
+    ~~~
 
 ## Daftar icon-icon yang saya tambahkan
 ### 128x
