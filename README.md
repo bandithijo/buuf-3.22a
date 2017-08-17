@@ -10,8 +10,8 @@ Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih 
 
 ## Disclaimer
 1. **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
-2. **Kepemilikan icon Buuf ini dimiliki oleh Paul Mattahan Davey.***
-3. **Iconset ini dibuat oleh OxayotlTheGreat.***
+2. **Kepemilikan icon Buuf ini dimiliki oleh Paul Mattahan Davey.**
+3. **Iconset ini dibuat oleh OxayotlTheGreat.**
 4. **Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
 
 ## What is 'a' on my iconset ?
