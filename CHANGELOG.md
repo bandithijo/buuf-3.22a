@@ -5,4 +5,4 @@
 Format cara membaca changelog ini, yang paling baru akan diletakkan di paling atas, sebaliknya yang paling lama akan berada di paling bawah.
 
 ### 2017-08-17
-* commit pertama kali ke GitHub dengna penambahan README.md & CHANGELOG.md
+* Commit pertama kali ke GitHub dengan penambahan README.md & CHANGELOG.md
