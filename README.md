@@ -4,26 +4,29 @@ Icon package ini saya clone dari buff-3.22 milik OxayotiTheGreat di [gnome-look.
 
 Semua icon-icon ini dibuat oleh [mattahan](http://mattahan.deviantart.com), terima kasih karena sudah membuat icon-icon yang sangat cantik.
 
-* **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
-* **Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
-* **Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.**
+## Disclaimer
+1. **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
+2. **Kepemilikan icon Buuf ini dimiliki oleh Paul Mattahan Davey.***
+3. **Iconset ini dibuat oleh OxayotlTheGreat.***
+4. **Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
+5. **Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.**
 
 ## Instalasi
 `sedang dalam proses pembuatan`
 
 ## What is 'a' on my icon set ?
 
-Huruf `a` hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` dan `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotiTheGreat).
+Huruf `a` hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotiTheGreat).
 
 ## Apa saja yang sudah saya tambahkan pada icon set ini ?
 
-Pada buuf-3.22a, saya menambahkan sejumlah icon tambahan untuk aplikasi-aplikasi yang saya gunakan sehari-hari yang mana icon-icon aplikasi tersebut belum tersedia pada buuf-3.22 versi OxyTheGreat.
+Pada buuf-3.22a, saya menambahkan sejumlah icon tambahan untuk aplikasi-aplikasi yang saya gunakan sehari-hari yang mana icon-icon aplikasi tersebut belum tersedia pada buuf-3.22 versi OxayotiTheGreat.
 
 Icon-icon untuk aplikasi yang saya tambahkan, terdapat pada direktori `.../buuf-3.22a/miscellaneous/128x128/apps`.
 
 Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `basic icon` atau `basic element icon` yang sudah disediakan oleh mattahan ([Buuf](https://mattahan.deviantart.com/art/Buuf-37966044)).
 
-Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sebuah aplikasi.
+Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
 
 ## Daftar Icon-icon yang saya tambahkan
 
@@ -197,6 +200,13 @@ Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi ya
 * firewall-config.png (`/miscellaneous/48x48/apps`)
 * ic_dark_enpass.png (`/miscellaneous/48x48/apps`)
 * ic_light_enpass.png (`/miscellaneous/48x48/apps`)
+
+Saya juga mempertegas warna dari wifi signal bar yang terdapat pada
+* indicator.png (`128x128/Zimages`)
+* indicator-1-green.png (`128x128/Zimages`)
+* indicator-2-green.png (`128x128/Zimages`)
+* indicator-3-green.png (`128x128/Zimages`)
+* indicator-4-green.png (`128x128/Zimages`)
 
 ## CREDITS & SOURCES
 1. [Buuf by mattahan](https://mattahan.deviantart.com/art/Buuf-37966044)
