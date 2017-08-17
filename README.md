@@ -239,4 +239,6 @@ Saya juga mempertegas warna dari wifi signal bar yang terdapat pada
 4. [GANT 3 by mattahan](https://mattahan.deviantart.com/art/GANT-3-15364715)
 5. [Buuf iconset by OxayotlTheGreat](https://www.gnome-look.org/content/show.php/Buuf?content=81153)
 
-
+## Changelog
+Daftar detail informasi mengenai perubahan & update dapat dilihat pada tautan berikut 
+>> [ChangeLog](https://github.com/bandithijo/buuf-3.22a/blob/master/CHANGELOG.md)
