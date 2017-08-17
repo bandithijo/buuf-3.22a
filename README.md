@@ -4,7 +4,9 @@ Icon package ini saya clone dari buff-3.22 milik **OxayotlTheGreat** pada alamat
 
 Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.
 
-Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://mattahan.deviantart.com)), terima kasih karena sudah membuat icon-icon yang sangat cantik.
+Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://mattahan.deviantart.com)). *Terima kasih karena sudah membuat icon-icon yang sangat cantik*.
+
+Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih karena telah mengadaptasikan icon-icon buuf yang sangat cantik ini ke dalam struktur icon yang dapat digunakan di lingkungan desktop GNU/Linux*.
 
 ## Disclaimer
 1. **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
@@ -27,7 +29,7 @@ Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `b
 Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
 
 ## Instalasi
-Untuk melakukan instalasi cukup *copy & paste* command perintah di bawah ini ke Terminal.
+Untuk melakukan instalasi cukup *copy & paste* perintah di bawah ini ke Terminal.
 
 `git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a`
 
