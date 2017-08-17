@@ -198,7 +198,7 @@ Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi ya
 * ic_dark_enpass.png (`/miscellaneous/48x48/apps`)
 * ic_light_enpass.png (`/miscellaneous/48x48/apps`)
 
-## CREDITS
+## CREDITS & SOURCES
 1. [Buuf by mattahan](https://mattahan.deviantart.com/art/Buuf-37966044)
 2. [UltraBUUF by mattahan](https://mattahan.deviantart.com/art/UltraBUUF-260792930)
 3. [Buuf Deuce by mattahan](https://mattahan.deviantart.com/art/Buuf-Deuce-72080962)
