@@ -12,9 +12,6 @@ Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://matta
 3. **Iconset ini dibuat oleh OxayotlTheGreat.***
 4. **Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
 
-## Instalasi
-`git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a`
-
 ## What is 'a' on my iconset ?
 
 Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotlTheGreat).
@@ -28,6 +25,15 @@ Icon-icon untuk aplikasi yang saya tambahkan sebagian besar terdapat pada direkt
 Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `basic icon` atau `basic element icon` yang sudah disediakan oleh mattahan ([Buuf](https://mattahan.deviantart.com/art/Buuf-37966044)).
 
 Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
+
+## Instalasi
+Untuk melakukan instalasi cukup copy & paste command (perintah) di bawah ke Terminal.
+`git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a`
+Perintah ini akan meng-clone-ing repositori ini ke dalam folder `~/.icons/` yang terdapat pada direktori `Home`.
+
+## Update
+Terkadang saya melakukan penambahan icon-icon baru terhadap aplikasi yang saya install dan saya akan melakukan update repositori pada GitHub ini. Maka untuk tetap dapat menikmati icon-icon yang telah saya tambahkan, anda dapat melakukannya dengan command (perintah) berikut ini.
+`cd ~/.icons/buuf-3.22a && git pull`
 
 ## Daftar icon-icon yang saya tambahkan
 ### 128x
