@@ -4,7 +4,7 @@ Icon package ini saya clone dari buff-3.22 milik OxayotiTheGreat pada alamat [Bu
 
 Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.
 
-Semua icon-icon ini dibuat oleh [mattahan](http://mattahan.deviantart.com), terima kasih karena sudah membuat icon-icon yang sangat cantik.
+Semua icon-icon ini dibuat oleh Paul Mattahan Davey ([mattahan](http://mattahan.deviantart.com)), terima kasih karena sudah membuat icon-icon yang sangat cantik.
 
 ## Disclaimer
 1. **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
