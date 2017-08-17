@@ -28,11 +28,15 @@ Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi ya
 
 ## Instalasi
 Untuk melakukan instalasi cukup copy & paste command (perintah) di bawah ke Terminal.
+
 `git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a`
+
 Perintah ini akan meng-clone-ing repositori ini ke dalam folder `~/.icons/` yang terdapat pada direktori `Home`.
+
 
 ## Update
 Terkadang saya melakukan penambahan icon-icon baru terhadap aplikasi yang saya install dan saya akan melakukan update repositori pada GitHub ini. Maka untuk tetap dapat menikmati icon-icon yang telah saya tambahkan, anda dapat melakukannya dengan command (perintah) berikut ini.
+
 `cd ~/.icons/buuf-3.22a && git pull`
 
 ## Daftar icon-icon yang saya tambahkan
