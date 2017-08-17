@@ -16,7 +16,7 @@ Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih 
 
 ## What is 'a' on my iconset ?
 
-Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotlTheGreat).
+Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buuf-3.22` dari pemilik aslinya (OxyotlTheGreat).
 
 ## Apa saja yang sudah saya tambahkan pada iconset ini ?
 
