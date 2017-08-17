@@ -27,15 +27,15 @@ Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `b
 Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
 
 ## Instalasi
-Untuk melakukan instalasi cukup copy & paste command (perintah) di bawah ke Terminal.
+Untuk melakukan instalasi cukup *copy & paste* command perintah di bawah ini ke Terminal.
 
 `git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a`
 
-Perintah ini akan meng-clone-ing repositori ini ke dalam folder `~/.icons/` yang terdapat pada direktori `Home`.
+Perintah ini akan meng-*clone*-ing repositori ini ke dalam folder `~/.icons/` yang terdapat pada direktori `Home`.
 
 
 ## Update
-Terkadang saya melakukan penambahan icon-icon baru terhadap aplikasi yang saya install dan saya akan melakukan update repositori pada GitHub ini. Maka untuk tetap dapat menikmati icon-icon yang telah saya tambahkan, anda dapat melakukannya dengan command (perintah) berikut ini.
+Terkadang saya melakukan penambahan icon-icon baru terhadap aplikasi yang saya install dan saya akan melakukan update repositori pada GitHub ini. Maka untuk tetap dapat menikmati icon-icon yang telah saya tambahkan, anda dapat melakukannya dengan perintah berikut ini.
 
 `cd ~/.icons/buuf-3.22a && git pull`
 
