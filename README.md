@@ -13,7 +13,7 @@ Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://matta
 4. **Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
 
 ## Instalasi
-`sedang dalam proses pembuatan`
+`git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a`
 
 ## What is 'a' on my iconset ?
 
