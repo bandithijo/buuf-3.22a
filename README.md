@@ -41,8 +41,8 @@ Terkadang saya melakukan penambahan icon-icon baru terhadap aplikasi yang saya i
     
     $ cd ~/.icons/buuf-3.22a && git pull
 
-## Uninstalasi
-Untuk melakukan uninstalasi cukup *copy & paste* perintah di bawah ini ke Terminal.
+## Remove
+Untuk melakukan remove iconset cukup *copy & paste* perintah di bawah ini ke Terminal.
     
     $ rm -rvf ~/.icons/buuf-3.22a
 
