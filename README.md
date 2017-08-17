@@ -19,7 +19,7 @@ Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://matta
 
 Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotiTheGreat).
 
-## Apa saja yang sudah saya tambahkan pada icon set ini ?
+## Apa saja yang sudah saya tambahkan pada iconset ini ?
 
 Pada buuf-3.22a, saya menambahkan sejumlah icon tambahan untuk aplikasi-aplikasi yang saya gunakan sehari-hari yang mana icon-icon aplikasi tersebut belum tersedia pada buuf-3.22 versi OxayotiTheGreat.
 
