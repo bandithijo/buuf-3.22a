@@ -2,6 +2,8 @@
 
 Icon package ini saya clone dari buff-3.22 milik OxayotiTheGreat di [gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
 
+Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.
+
 Semua icon-icon ini dibuat oleh [mattahan](http://mattahan.deviantart.com), terima kasih karena sudah membuat icon-icon yang sangat cantik.
 
 ## Disclaimer
@@ -9,20 +11,19 @@ Semua icon-icon ini dibuat oleh [mattahan](http://mattahan.deviantart.com), teri
 2. **Kepemilikan icon Buuf ini dimiliki oleh Paul Mattahan Davey.***
 3. **Iconset ini dibuat oleh OxayotlTheGreat.***
 4. **Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
-5. **Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.**
 
 ## Instalasi
 `sedang dalam proses pembuatan`
 
 ## What is 'a' on my icon set ?
 
-Huruf `a` hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotiTheGreat).
+Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotiTheGreat).
 
 ## Apa saja yang sudah saya tambahkan pada icon set ini ?
 
 Pada buuf-3.22a, saya menambahkan sejumlah icon tambahan untuk aplikasi-aplikasi yang saya gunakan sehari-hari yang mana icon-icon aplikasi tersebut belum tersedia pada buuf-3.22 versi OxayotiTheGreat.
 
-Icon-icon untuk aplikasi yang saya tambahkan, terdapat pada direktori `.../buuf-3.22a/miscellaneous/128x128/apps`.
+Icon-icon untuk aplikasi yang saya tambahkan sebagian besar terdapat pada direktori `.../buuf-3.22a/miscellaneous/128x128/apps`.
 
 Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `basic icon` atau `basic element icon` yang sudah disediakan oleh mattahan ([Buuf](https://mattahan.deviantart.com/art/Buuf-37966044)).
 
