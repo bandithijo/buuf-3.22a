@@ -1,6 +1,6 @@
 # buuf-3.22a
 
-Icon package ini saya clone dari buff-3.22 milik OxayotiTheGreat di [gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
+Icon package ini saya clone dari buff-3.22 milik OxayotiTheGreat pada alamat [Buuf gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
 
 Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.
 
