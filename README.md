@@ -4,9 +4,9 @@ Icon package ini saya clone dari buff-3.22 milik OxayotiTheGreat di [gnome-look.
 
 Semua icon-icon ini dibuat oleh [mattahan](http://mattahan.deviantart.com), terima kasih karena sudah membuat icon-icon yang sangat cantik.
 
-**Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
-**Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
-**Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.**
+* **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
+* **Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
+* **Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.**
 
 ## Instalasi
 `sedang dalam proses pembuatan`
