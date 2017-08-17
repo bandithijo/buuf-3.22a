@@ -28,7 +28,7 @@ Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `b
 
 Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
 
-## Instalasi
+## Installation
 Untuk melakukan instalasi cukup *copy & paste* perintah di bawah ini ke Terminal.
 
     $ git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a
@@ -234,7 +234,7 @@ Saya juga mempertegas warna dari wifi signal bar yang terdapat pada
 * indicator-3-green.png (`128x128/Zimages`)
 * indicator-4-green.png (`128x128/Zimages`)
 
-## CREDITS & SOURCES
+## Credits & Sources
 1. [Buuf by mattahan](https://mattahan.deviantart.com/art/Buuf-37966044)
 2. [UltraBUUF by mattahan](https://mattahan.deviantart.com/art/UltraBUUF-260792930)
 3. [Buuf Deuce by mattahan](https://mattahan.deviantart.com/art/Buuf-Deuce-72080962)
