@@ -1,6 +1,6 @@
 # buuf-3.22a
 
-Icon package ini saya clone dari buff-3.22 milik **OxayotiTheGreat** pada alamat [Buuf gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
+Icon package ini saya clone dari buff-3.22 milik **OxayotlTheGreat** pada alamat [Buuf gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
 
 Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.
 
@@ -17,11 +17,11 @@ Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://matta
 
 ## What is 'a' on my iconset ?
 
-Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotiTheGreat).
+Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotlTheGreat).
 
 ## Apa saja yang sudah saya tambahkan pada iconset ini ?
 
-Pada buuf-3.22a, saya menambahkan sejumlah icon tambahan untuk aplikasi-aplikasi yang saya gunakan sehari-hari yang mana icon-icon aplikasi tersebut belum tersedia pada buuf-3.22 versi OxayotiTheGreat.
+Pada buuf-3.22a, saya menambahkan sejumlah icon tambahan untuk aplikasi-aplikasi yang saya gunakan sehari-hari yang mana icon-icon aplikasi tersebut belum tersedia pada buuf-3.22 versi OxayotlTheGreat.
 
 Icon-icon untuk aplikasi yang saya tambahkan sebagian besar terdapat pada direktori `.../buuf-3.22a/miscellaneous/128x128/apps`.
 
@@ -219,6 +219,6 @@ Saya juga mempertegas warna dari wifi signal bar yang terdapat pada
 2. [UltraBUUF by mattahan](https://mattahan.deviantart.com/art/UltraBUUF-260792930)
 3. [Buuf Deuce by mattahan](https://mattahan.deviantart.com/art/Buuf-Deuce-72080962)
 4. [GANT 3 by mattahan](https://mattahan.deviantart.com/art/GANT-3-15364715)
-5. [Buuf iconset by OxayotiTheGreat](https://www.gnome-look.org/content/show.php/Buuf?content=81153)
+5. [Buuf iconset by OxayotlTheGreat](https://www.gnome-look.org/content/show.php/Buuf?content=81153)
 
 
