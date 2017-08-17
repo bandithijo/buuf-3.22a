@@ -15,7 +15,7 @@ Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://matta
 ## Instalasi
 `sedang dalam proses pembuatan`
 
-## What is 'a' on my icon set ?
+## What is 'a' on my iconset ?
 
 Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `buff-3.22` dari pemilik aslinya (OxyotiTheGreat).
 
