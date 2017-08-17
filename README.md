@@ -29,8 +29,8 @@ Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `b
 
 Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
 
-## Daftar Icon-icon yang saya tambahkan
-
+## Daftar icon-icon yang saya tambahkan
+### 128x
 * android-studio.png (`/miscellaneous/128x128/apps`)
 * anjuta.png (`/miscellaneous/128x128/apps`)
 * artha.png (`/miscellaneous/128x128/apps`)
@@ -179,24 +179,29 @@ Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi ya
 * tap-extract.png (`/miscellaneous/128x128/actions`)
 * tap-extract-to.png (`/miscellaneous/128x128/actions`)
 
+### 16x
 * firewall-applet.png (`/miscellaneous/16x16/apps`)
 * firewall-config.png (`/miscellaneous/16x16/apps`)
 * ic_dark_enpass.png (`/miscellaneous/16x16/apps`)
 * ic_light_enpass.png (`/miscellaneous/16x16/apps`)
 
+### 22x
 * firewall-config.png (`/miscellaneous/22x22/apps`)
 * firewall-applet.png (`/miscellaneous/22x22/apps`)
 
+### 24x
 * firewall-applet.png (`/miscellaneous/24x24/apps`)
 * firewall-config.png (`/miscellaneous/24x24/apps`)
 * ic_dark_enpass.png (`/miscellaneous/24x24/apps`)
 * ic_light_enpass.png (`/miscellaneous/24x24/apps`)
 
+### 32x
 * firewall-applet.png (`/miscellaneous/32x32/apps`)
 * firewall-config.png (`/miscellaneous/32x32/apps`)
 * ic_dark_enpass.png (`/miscellaneous/32x32/apps`)
 * ic_light_enpass.png (`/miscellaneous/32x32/apps`)
 
+### 48x
 * firewall-applet.png (`/miscellaneous/48x48/apps`)
 * firewall-config.png (`/miscellaneous/48x48/apps`)
 * ic_dark_enpass.png (`/miscellaneous/48x48/apps`)
