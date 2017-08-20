@@ -8,15 +8,18 @@ Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://matta
 
 Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih karena telah mengadaptasikan icon-icon buuf yang sangat cantik ini ke dalam struktur icon yang dapat digunakan di lingkungan desktop GNU/Linux*.
 
+
 ## Disclaimer
 1. **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
 2. **Kepemilikan icon Buuf ini dimiliki oleh Paul Mattahan Davey.**
 3. **Iconset ini dibuat oleh OxayotlTheGreat.**
 4. **Saya tidak mengambil keuntungan berupa uang sedikitpun dari iconset ini.**
 
+
 ## What is 'a' on my iconset ?
 
 Huruf **a** hanya mewakili kode untuk menandai sekaligus membuat perbedaan nama pada direktori `/usr/share/icons/` atau `~/.icons` agar tidak tumpang tindih dengan `/buuf-3.22` dari pemilik aslinya (OxyotlTheGreat).
+
 
 ## Apa saja yang sudah saya tambahkan pada iconset ini ?
 
@@ -27,6 +30,7 @@ Icon-icon untuk aplikasi yang saya tambahkan sebagian besar terdapat pada direkt
 Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `basic icon` atau `basic element icon` yang sudah disediakan oleh mattahan ([Buuf](https://mattahan.deviantart.com/art/Buuf-37966044)).
 
 Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
+
 
 ## Installation
 Untuk melakukan instalasi cukup *copy & paste* perintah di bawah ini ke Terminal.
@@ -41,16 +45,20 @@ Terkadang saya melakukan penambahan icon-icon baru terhadap aplikasi yang saya i
     
     $ cd ~/.icons/buuf-3.22a && git pull
 
+
 ## Remove
 Untuk melakukan remove iconset cukup *copy & paste* perintah di bawah ini ke Terminal.
     
     $ rm -rvf ~/.icons/buuf-3.22a
 
+
 ## Changelog
 Daftar detail informasi mengenai perubahan & update dapat dilihat pada tautan berikut **>** [ChangeLog](https://github.com/bandithijo/buuf-3.22a/blob/master/CHANGELOG.md)
 
+
 ## Daftar icon-icon yang saya tambahkan
 Berikut ini adalah daftar mengenai icon-icon dari aplikasi apa saja yang sudah saya tambahkan terdapat pada tautan berikut **>** [Additonal Icons](https://github.com/bandithijo/buuf-3.22a/blob/master/ADDITIONAL_ICONS.md)
+
 
 ## Credits & Sources
 1. [Buuf by mattahan](https://mattahan.deviantart.com/art/Buuf-37966044)
