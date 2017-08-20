@@ -5,7 +5,7 @@
 Format cara membaca changelog ini, yang paling baru akan diletakkan di paling atas.
 
 ### 2017-08-20
-* Mengganti & menambah pilihan icon `house`
+* Mengganti & menambah pilihan icon `house.png`
 * Mengganti symbolic link dari `window-maximize/minimize-symbolic.png`
 
 ### 2017-08-17
