@@ -50,7 +50,7 @@ Untuk melakukan remove iconset cukup *copy & paste* perintah di bawah ini ke Ter
 Daftar detail informasi mengenai perubahan & update dapat dilihat pada tautan berikut **>** [ChangeLog](https://github.com/bandithijo/buuf-3.22a/blob/master/CHANGELOG.md)
 
 ## Daftar icon-icon yang saya tambahkan
-Daftar mengenai icon-icon dari aplikasi apa saja yang sudah saya tambahkan terdapat pada tautan berikut **>** [Additonal Icons]()
+Berikut ini adalah daftar mengenai icon-icon dari aplikasi apa saja yang sudah saya tambahkan terdapat pada tautan berikut **>** [Additonal Icons](https://github.com/bandithijo/buuf-3.22a/blob/master/ADDITIONAL_ICONS.md)
 
 ## Credits & Sources
 1. [Buuf by mattahan](https://mattahan.deviantart.com/art/Buuf-37966044)
