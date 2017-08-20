@@ -6,6 +6,7 @@ Format cara membaca changelog ini, yang paling baru akan diletakkan di paling at
 
 ### 2017-08-20
 * Mengganti & menambah pilihan icon house 
+* Mengganti symbolic link dari window-maximize/minimize-symbolic.png
 
 ### 2017-08-17
 * Commit pertama kali ke GitHub dengan penambahan README.md & CHANGELOG.md
