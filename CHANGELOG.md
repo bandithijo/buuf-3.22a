@@ -4,6 +4,9 @@
 
 Format cara membaca changelog ini, yang paling baru akan diletakkan di paling atas.
 
+### 2017-08-23
+* Menambahkan icon restart button pada XFCE dan icon copy indicator on trayicon XFCE.
+
 ### 2017-08-22
 * Menambahkan icon `display-brightness.png` pada folder `/notify-osd` untuk ukuran `128x` & `48x`
 
