@@ -6,6 +6,7 @@ Format cara membaca changelog ini, yang paling baru akan diletakkan di paling at
 
 ### 2017-08-24
 * Menambahkan preview pada `README.md`.
+* Menambahkan symbolic link untuk `menulibre`.
 
 ### 2017-08-23
 * Menambahkan icon restart button pada XFCE dan icon copy indicator on trayicon XFCE.
