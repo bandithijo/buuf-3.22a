@@ -73,4 +73,6 @@ Berikut ini adalah daftar mengenai icon-icon dari aplikasi apa saja yang sudah s
 3. [Buuf Deuce by mattahan](https://mattahan.deviantart.com/art/Buuf-Deuce-72080962)
 4. [GANT 3 by mattahan](https://mattahan.deviantart.com/art/GANT-3-15364715)
 5. [Buuf iconset by OxayotlTheGreat](https://www.gnome-look.org/content/show.php/Buuf?content=81153)
+6. [Buuf Icon Project](http://buuficontheme.free.fr/)
+7. [buuf-icon-theme 3.20-1 (AUR)](https://aur.archlinux.org/packages/buuf-icon-theme)
 
