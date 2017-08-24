@@ -2,6 +2,7 @@
 # Additional_Icons.md
 Berikut ini adalah daftar icon-icon aplikasi yang sudah saya tambahkan. Penambahan icon aplikasi ini saya buat dengan menggambungkan beberapa `basic icon` yang sudah tersedia pada `resource icon buuf-3.22`.
 ### 128x
+#### /apps
 * android-studio.png (`/miscellaneous/128x128/apps`)
 * anjuta.png (`/miscellaneous/128x128/apps`)
 * artha.png (`/miscellaneous/128x128/apps`)
@@ -141,44 +142,70 @@ Berikut ini adalah daftar icon-icon aplikasi yang sudah saya tambahkan. Penambah
 * zekr.png (`/miscellaneous/128x128/apps`)
 * zenmap.png (`/miscellaneous/128x128/apps`)
 
+#### /status
 * blueman-tray.png (`/miscellaneous/128x128/status`)
 * bluetooth-active.png (`/miscellaneous/128x128/status`)
 * bluetooth-disabled.png (`/miscellaneous/128x128/status`)
 
+#### /actions
 * create-archive.png (`/miscellaneous/128x128/actions`)
 * tap-create.png (`/miscellaneous/128x128/actions`)
 * tap-extract.png (`/miscellaneous/128x128/actions`)
 * tap-extract-to.png (`/miscellaneous/128x128/actions`)
 
+#### /Zimages
+* media-reboot-green.png (`/128x128/Zimages`)
+
 ### 16x
+#### /apps
 * firewall-applet.png (`/miscellaneous/16x16/apps`)
 * firewall-config.png (`/miscellaneous/16x16/apps`)
 * ic_dark_enpass.png (`/miscellaneous/16x16/apps`)
 * ic_light_enpass.png (`/miscellaneous/16x16/apps`)
 
+#### /Zimages
+* media-reboot-green.png (`/16x16/Zimages`)
+
 ### 22x
+#### /apps
 * firewall-config.png (`/miscellaneous/22x22/apps`)
 * firewall-applet.png (`/miscellaneous/22x22/apps`)
 
+#### /Zimages
+* media-reboot-green.png (`/22x22/Zimages`)
+
 ### 24x
+#### /apps
 * firewall-applet.png (`/miscellaneous/24x24/apps`)
 * firewall-config.png (`/miscellaneous/24x24/apps`)
 * ic_dark_enpass.png (`/miscellaneous/24x24/apps`)
 * ic_light_enpass.png (`/miscellaneous/24x24/apps`)
 
+#### /Zimages
+* media-reboot-green.png (`/24x24/Zimages`)
+
 ### 32x
+#### /apps
 * firewall-applet.png (`/miscellaneous/32x32/apps`)
 * firewall-config.png (`/miscellaneous/32x32/apps`)
 * ic_dark_enpass.png (`/miscellaneous/32x32/apps`)
 * ic_light_enpass.png (`/miscellaneous/32x32/apps`)
 
+#### /Zimages
+* media-reboot-green.png (`/32x32/Zimages`)
+
 ### 48x
+#### /apps
 * firewall-applet.png (`/miscellaneous/48x48/apps`)
 * firewall-config.png (`/miscellaneous/48x48/apps`)
 * ic_dark_enpass.png (`/miscellaneous/48x48/apps`)
 * ic_light_enpass.png (`/miscellaneous/48x48/apps`)
 
+#### /Zimages
+* media-reboot-green.png (`/48x48/Zimages`)
+
 Saya juga mempertegas warna dari wifi signal bar yang terdapat pada
+### 128x
 * indicator.png (`128x128/Zimages`)
 * indicator-1-green.png (`128x128/Zimages`)
 * indicator-2-green.png (`128x128/Zimages`)
