@@ -8,7 +8,7 @@ Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sud
 
 :exclamation: Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih karena telah mengadaptasikan icon-icon buuf yang sangat cantik ini ke dalam struktur icon yang dapat digunakan di lingkungan desktop GNU/Linux*.
 
-![Top-Banner](https://github.com/bandithijo/buuf-3.22a/blob/master/screenshot/icon-preview.png?raw=true)
+![icon-preview.png](https://github.com/bandithijo/buuf-3.22a/blob/master/screenshot/icon-preview.png?raw=true)
 
 ## Disclaimer
 1. **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
