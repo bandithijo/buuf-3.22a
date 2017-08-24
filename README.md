@@ -37,11 +37,15 @@ Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi ya
 Saya menggunakan iconset ini pada **GNOME** dan **XFCE**. Untuk *Desktop Environment* yang lain, belum saya uji coba.
 
 ## Installation
-Untuk melakukan instalasi cukup *copy & paste* perintah di bawah ini ke Terminal.
+Untuk melakukan instalasi, direktori `~/.icons` sudah harus tersedia pada direktori `home` anda. Apabila belum, anda bisa membuat direktori `~/.icons` terlebih dahulu dengan perintah di bawah.
+    
+    $ mkdir ~/.icons
+
+Apabila sudah terdapat direktori `~/.icons` langkah selanjutnya ada meng-*cloning* repository ini ke dalam sistem anda. Caranya cukup *copy & paste* perintah di bawah ini ke Terminal.
 
     $ git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a
 
-Perintah ini akan meng-*clone*-ing repositori ini ke dalam folder `~/.icons/` yang terdapat pada direktori `Home`.
+Perintah ini akan meng-*cloning* repositori ini ke dalam folder `~/.icons/` yang terdapat pada direktori `Home`.
 
 
 ## Update
