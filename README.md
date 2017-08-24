@@ -6,7 +6,7 @@ Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sud
 
 :exclamation: Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://mattahan.deviantart.com)). *Terima kasih karena sudah membuat icon-icon yang sangat cantik*.
 
-:exclamation: Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih karena telah mengadaptasikan icon-icon buuf yang sangat cantik ini ke dalam struktur icon yang dapat digunakan di lingkungan desktop GNU/Linux*.
+:exclamation: Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih karena telah mengadaptasikan icon-icon buuf yang sangat cantik ini ke dalam struktur icon yang dapat digunakan pada lingkungan desktop GNU/Linux*.
 
 ![icon-preview.png](https://github.com/bandithijo/buuf-3.22a/blob/master/screenshot/icon-preview.png?raw=true)
 
