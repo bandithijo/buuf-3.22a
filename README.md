@@ -2,7 +2,7 @@
 
 Icon package / iconset ini saya *clone* dari iconset **buff-3.22** milik **OxayotlTheGreat** pada alamat [Buuf gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
 
-Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub. Sebagai bahan pembelajaran bagi saya untuk mempelajari cara menggunakan GitHub.
+Saya menambahkan beberapa icon dan memutuskan untuk berbagi mengenai apa yang sudah saya tambahkan melalui GitHub. Sebagai bahan pembelajaran bagi saya untuk mempelajari cara menggunakan GitHub.
 
 :exclamation: Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://mattahan.deviantart.com)). *Terima kasih karena sudah membuat icon-icon yang sangat cantik*.
 
