@@ -1,15 +1,15 @@
 # buuf-3.22a
 
-![Top-Banner](https://github.com/bandithijo/buuf-3.22a/blob/master/screenshot/top-banner.png?raw=true)
 
 Icon package / iconset ini saya *clone* dari iconset **buff-3.22** milik **OxayotlTheGreat** pada alamat [Buuf gnome-look.org](https://www.gnome-look.org/content/show.php/Buuf?content=81153).
 
 Saya menambahkan beberapa icon dan memutuskan untuk berbagi tentang apa yang sudah saya tambahkan melalui GitHub.
 
-Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://mattahan.deviantart.com)). *Terima kasih karena sudah membuat icon-icon yang sangat cantik*.
+:exclamation: Semua icon-icon ini dibuat oleh **Paul Mattahan Davey** ([mattahan](http://mattahan.deviantart.com)). *Terima kasih karena sudah membuat icon-icon yang sangat cantik*.
 
-Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih karena telah mengadaptasikan icon-icon buuf yang sangat cantik ini ke dalam struktur icon yang dapat digunakan di lingkungan desktop GNU/Linux*.
+:exclamation: Iconset ini diadaptasi ke Gnome Desktop oleh **OxayotlTheGreat**. *Terima kasih karena telah mengadaptasikan icon-icon buuf yang sangat cantik ini ke dalam struktur icon yang dapat digunakan di lingkungan desktop GNU/Linux*.
 
+![Top-Banner](https://github.com/bandithijo/buuf-3.22a/blob/master/screenshot/top-banner.png?raw=true)
 
 ## Disclaimer
 1. **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
@@ -33,6 +33,8 @@ Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `b
 
 Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
 
+## Tested On
+Saya menggunakan iconset ini pada **GNOME** dan **XFCE**. Untuk *Desktop Environment* yang lain, belum saya uji coba.
 
 ## Installation
 Untuk melakukan instalasi cukup *copy & paste* perintah di bawah ini ke Terminal.
