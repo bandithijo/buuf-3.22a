@@ -10,6 +10,7 @@ Saya menambahkan beberapa icon dan memutuskan untuk berbagi mengenai apa yang su
 
 ![icon-preview.png](https://github.com/bandithijo/buuf-3.22a/blob/master/screenshot/icon-preview.png?raw=true)
 
+
 ## Disclaimer
 1. **Saya tidak memiliki hak atas icon dan struktur folder dari iconset ini.**
 2. **Kepemilikan icon Buuf ini dimiliki oleh Paul Mattahan Davey.**
@@ -32,8 +33,10 @@ Saya tidak membuat icon baru, hanya menggambungkan dan mengkomposisi beberapa `b
 
 Selain icon-icon aplikasi, saya juga menambahkan sejumlah icon dengan dimensi yang berbeda pada direktori `miscellaneous`, seperti dimensi `16x16`, `22x22`, `24x24`, `32x32`, `48x48`. Penambahan direktori ini bertujuan untuk mengganti default trayicon dari sejumlah aplikasi.
 
+
 ## Tested On
 Saya menggunakan iconset ini pada **GNOME** dan **XFCE**. Untuk *Desktop Environment* yang lain, belum saya uji coba.
+
 
 ## Installation
 Untuk melakukan instalasi, direktori `~/.icons` sudah harus tersedia pada direktori `/home`. Apabila belum, maka Anda dapat membuat direktori `~/.icons` terlebih dahulu dengan perintah di bawah.
@@ -60,11 +63,11 @@ Untuk melakukan remove iconset cukup *copy & paste* perintah di bawah ini ke Ter
 
 
 ## Changelog
-Daftar detail informasi mengenai perubahan & update dapat dilihat pada tautan berikut **>** [ChangeLog](https://github.com/bandithijo/buuf-3.22a/blob/master/CHANGELOG.md)
+Daftar detail informasi mengenai perubahan & update dapat dilihat pada tautan berikut **>** [ChangeLog](https://github.com/bandithijo/buuf-3.22a/blob/master/CHANGELOG.md).
 
 
 ## Daftar icon-icon yang saya tambahkan
-Berikut ini adalah daftar mengenai icon-icon dari aplikasi apa saja yang sudah saya tambahkan terdapat pada tautan berikut **>** [Additonal Icons](https://github.com/bandithijo/buuf-3.22a/blob/master/ADDITIONAL_ICONS.md)
+Berikut ini adalah daftar mengenai icon-icon dari aplikasi apa saja yang sudah saya tambahkan terdapat pada tautan berikut **>** [Additonal Icons](https://github.com/bandithijo/buuf-3.22a/blob/master/ADDITIONAL_ICONS.md).
 
 
 ## Credits & Sources
