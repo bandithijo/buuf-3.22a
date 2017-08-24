@@ -4,6 +4,9 @@
 
 Format cara membaca changelog ini, yang paling baru akan diletakkan di paling atas.
 
+### 2017-08-24
+* Menambahkan preview pada `README.md`.
+
 ### 2017-08-23
 * Menambahkan icon restart button pada XFCE dan icon copy indicator on trayicon XFCE.
 * Mengganti `-restart` ke `-reboot`.
