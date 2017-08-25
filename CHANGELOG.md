@@ -8,6 +8,9 @@ Format cara membaca changelog ini, yang paling baru akan diletakkan di paling at
 * Menambahkan preview pada `README.md`.
 * Menambahkan symbolic link untuk `menulibre`.
 
+### 2017-08-25
+* Membuat symbolic link untuk `firewall-applet`, `firewall-config`, `enpass` trayicon.
+
 ### 2017-08-23
 * Menambahkan icon restart button pada XFCE dan icon copy indicator on trayicon XFCE.
 * Mengganti `-restart` ke `-reboot`.
