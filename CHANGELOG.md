@@ -4,12 +4,13 @@
 
 Format cara membaca changelog ini, yang paling baru akan diletakkan di paling atas.
 
+### 2017-08-25
+* Menambahkan symbolic link untuk `menulibre`.
+* Mengganti symbolic link untuk `next`, `go-next`, `previous`, `go-previous`, `up`, `go-up`, `bottom`, `go-bottom` untuk size `128x128/actions`, `24x24/actions`, `22x22/actions`, `16x16/actions`.
+* Membuat symbolic link untuk `firewall-applet`, `firewall-config`, `enpass` trayicon.
+
 ### 2017-08-24
 * Menambahkan preview pada `README.md`.
-* Menambahkan symbolic link untuk `menulibre`.
-
-### 2017-08-25
-* Membuat symbolic link untuk `firewall-applet`, `firewall-config`, `enpass` trayicon.
 
 ### 2017-08-23
 * Menambahkan icon restart button pada XFCE dan icon copy indicator on trayicon XFCE.
