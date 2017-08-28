@@ -4,6 +4,9 @@
 
 Format cara membaca changelog ini, yang paling baru akan diletakkan di paling atas.
 
+### 2017-08-28
+* Mengganti symbolic link untuk device `phone` ke `smartphone`.
+
 ### 2017-08-25
 * Menambahkan symbolic link untuk `menulibre`.
 * Mengganti symbolic link untuk `next`, `go-next`, `previous`, `go-previous`, `up`, `go-up`, `bottom`, `go-bottom` untuk size `128x128/actions`, `24x24/actions`, `22x22/actions`, `16x16/actions`.
