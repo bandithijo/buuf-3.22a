@@ -43,11 +43,11 @@ Untuk melakukan instalasi, direktori `~/.icons` sudah harus tersedia pada direkt
     
     $ mkdir ~/.icons
 
-Apabila sudah terdapat direktori `~/.icons` langkah selanjutnya ada meng-*cloning* repository ini ke dalam sistem. Caranya cukup *copy & paste* perintah di bawah ini ke Terminal.
+Langkah selanjutnya ada meng-*cloning* repository ini ke dalam direktori `.icons` yang sebelunya telah dibuat. Caranya cukup *copy & paste* perintah di bawah ini ke Terminal.
 
     $ git clone https://github.com/bandithijo/buuf-3.22a.git ~/.icons/buuf-3.22a
 
-Perintah ini akan meng-*cloning* repositori ini ke dalam folder `~/.icons/` yang terdapat pada direktori `/home`.
+Perintah ini akan meng-*cloning* repositori ini (buuf iconset) ke dalam folder `~/.icons/` yang terdapat pada direktori `/home/(username)`.
 
 
 ## Update
