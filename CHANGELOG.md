@@ -4,6 +4,9 @@
 
 Format cara membaca changelog ini, yang paling baru akan diletakkan di paling atas.
 
+### 2017-09-06
+* Mengganti hard icon menjadi symbolic link untuk beberapa aplikasi. Untuk merampingkan iconset / icon package agar tidak gemuk.
+
 ### 2017-08-28
 * Mengganti symbolic link untuk device `phone` ke `smartphone`.
 
