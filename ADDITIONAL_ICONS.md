@@ -41,6 +41,7 @@ Berikut ini adalah daftar icon-icon aplikasi yang sudah saya tambahkan. Penambah
 * gcolor.png & gcolor2.png (`/miscellaneous/128x128/apps`)
 * geany.png (`/miscellaneous/128x128/apps`)
 * geary.png (`/miscellaneous/128x128/apps`)
+* github-editor.png (`/miscellaneous/128x128/apps`)
 * gkamus.png (`/miscellaneous/128x128/apps`)
 * glade.png (`/miscellaneous/128x128/apps`)
 * gnome-abrt.png (`/miscellaneous/128x128/apps`)
