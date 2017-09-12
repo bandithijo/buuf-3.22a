@@ -59,6 +59,7 @@ Berikut ini adalah daftar icon-icon aplikasi yang sudah saya tambahkan. Penambah
 * htop.png (`/miscellaneous/128x128/apps`)
 * httrack.png (`/miscellaneous/128x128/apps`)
 * i3.png & i3-gnome.png (`/miscellaneous/128x128/apps`)
+* indicator.png (`/miscellaneous/128x128/apps`)
 * ipython.png (`/miscellaneous/128x128/apps`)
 * kbbi-qt.png & KBBI-Qt.png (`/miscellaneous/128x128/apps`)
 * kdenlive.png (`/miscellaneous/128x128/apps`)
