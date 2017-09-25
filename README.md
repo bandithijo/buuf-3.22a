@@ -41,6 +41,7 @@ Saya menggunakan iconset ini pada **GNOME** dan **XFCE**. Untuk *Desktop Environ
 ## Installation
 Untuk melakukan instalasi, direktori `~/.icons` sudah harus tersedia pada direktori `/home`. Apabila belum, maka Anda dapat membuat direktori `~/.icons` terlebih dahulu dengan perintah di bawah.
     
+    $ cd
     $ mkdir ~/.icons
 
 Langkah selanjutnya ada meng-*cloning* repository ini ke dalam direktori `.icons` yang sebelunya telah dibuat. Caranya cukup *copy & paste* perintah di bawah ini ke Terminal.
