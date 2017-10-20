@@ -4,6 +4,9 @@
 
 Format cara membaca changelog ini, yang paling baru akan diletakkan di paling atas.
 
+### 2017-10-20
+* Menambahkan icon `vysor.png` pada `/miscellaneous/128x128/apps`
+
 ### 2017-09-12
 * Menambahkan icon github-editor
 
