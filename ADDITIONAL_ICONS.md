@@ -119,6 +119,7 @@ Berikut ini adalah daftar icon-icon aplikasi yang sudah saya tambahkan. Penambah
 * tuxcut.png (`/miscellaneous/128x128/apps`)
 * typershark.png (`/miscellaneous/128x128/apps`)
 * vokoscreen.png (`/miscellaneous/128x128/apps`)
+* vysor.png (`/miscellaneous/128x128/apps`)
 * whatsie.png (`/miscellaneous/128x128/apps`)
 * winecfg.png (`/miscellaneous/128x128/apps`)
 * winefile.png (`/miscellaneous/128x128/apps`)
